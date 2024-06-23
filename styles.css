@@ -555,6 +555,7 @@ body {
 .contact-right {
   padding: 20px; /* Reduced padding for smaller screens */
   background-color: #1c00b5;
+  color: #ffffff;
 }
 
 .container h1 {
