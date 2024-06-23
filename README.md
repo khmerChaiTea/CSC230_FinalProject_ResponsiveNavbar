@@ -1,4 +1,6 @@
-# CSC230_Final_Project
+# CSC230_Final_Project Version 2
+
+Hosted on GitHub: https://khmerchaitea.github.io/CSC230_FinalProject_ResponsiveNavbar/
 
 Following along with Brian Design on youtube, @ www.youtube.com/channel/UCsKsymTY_4BYR-wytLjex7A?view_as=subscriber, for the Navigation bar
 
